@@ -1,7 +1,7 @@
 Essay
 =====
 
- * [Wolfgang Weingart](https://github.com/Scott-McNab/Essay/index.html)
+ * [Wolfgang Weingart](https://github.com/Scott-McNab/Essay)
 
 References
 ----------
